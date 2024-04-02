@@ -4,7 +4,7 @@ Resources for Pythonistas attending PyCascades 2024.
 
 ## Azure development workflows just made your life easier
 
-🤖 Develop Python apps that use Azure AI services: https://aka.ms/azai/
+🤖 Develop Python apps that harness the power of Azure AI services: https://aka.ms/azai/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔃 Learn how to switch between OpenAI and Azure OpenAI endpoints with the Python SDK: https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints
 
