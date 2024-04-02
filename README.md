@@ -18,9 +18,9 @@ Resources for Pythonistas attending PyCascades 2024.
 
 ➡️ Don't have an Azure account? Sign up for free at https://azure.microsoft.com/en-us/free/
 
-## Superpower your Python development experience in Visual Studio Code
+## Superpower your Python development experience 
 
-### Reproducible dev environments
+### Reproducible dev environments in Visual Studio Code
 
 📂 Get your code to work on any machine with [dev containers](https://code.visualstudio.com/docs/devcontainers/containers)
 
@@ -30,7 +30,7 @@ Resources for Pythonistas attending PyCascades 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 Check out Dawn Wages's and Pamela Fox's conversation on the [Python Pulse](https://devblogs.microsoft.com/python/announcing-python-pulse/): ["Using PostgreSQL inside VS Code Dev Containers & GitHub Codespaces"](https://www.youtube.com/watch?v=JTHTWp9DIZQ)
 
-### Boost your productivity when developing Python code 
+### Boost your productivity when developing Python in Visual Studio Code  
 🧠 Get the best from AI to empower your development experience with [GitHub Copilot](https://code.visualstudio.com/docs/editor/artificial-intelligence)
 
 ✨ Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
@@ -46,6 +46,9 @@ Resources for Pythonistas attending PyCascades 2024.
 🌐 Code anywhere, anytime with [vscode.dev](https://vscode.dev/) and [github.dev](https://github.dev/)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💪 Try it out with our [wordle](https://github.com/luabud/wordle) sample!
+
+### Unlock Excel's Superpowers
+📊  Supercharge your data analysis and tell better stories with [Python in Excel](https://www.microsoft.com/en-ca/microsoft-365/python-in-excel)
 
 ## Discover how Microsoft is actively contributing to the growth and development of Python
 
